@@ -1,6 +1,5 @@
 node_modules/
 dist/
-/images/
 .env
 .env.*
 !.env.example
